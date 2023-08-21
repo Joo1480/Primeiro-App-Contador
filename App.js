@@ -15,7 +15,7 @@ export default function App() {
   }
   return (
     <>
-    <Header title="Teste com Samuel"/>
+    <Header title="Primeiro Contador"/>
     <View style={styles.container}>
       <Text style={styles.title2}>Teste</Text>
       <Text style={styles.title}>Teste</Text>
